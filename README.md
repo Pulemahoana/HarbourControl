@@ -1,9 +1,11 @@
 # Durban Harbour Control
 
- Application that will randomly generate boats that arrive at the perimeter and control the flow of boats into the harbor.
-• Scheduling engine that will allow after delayed time.
-• Using  console to demonstrate the functionality.
-• Calling a service that that display the current wind speed at Durban harbor.
-• Any sailboats into the harbor if the wind speed is below 10km/h not allowed
-• Any sailboats into the harbor if the wind speed is above 30km/h not allowed
-• Using a DB.
+This repository contains a working Habour Control for Durban
+
+to start this project on your local computer:
+
+clone the repository
+open directory in vscode/ visual studio
+check the path of the db 
+start the project , which should load the weather service https://openweathermap.org/current, will automatically load the wind speed and and randomly select boat
+save the information in the database, which should be available on local path, information will be automatically added to the  database and can view what is added on the database.
