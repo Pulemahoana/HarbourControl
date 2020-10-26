@@ -1,6 +1,6 @@
-# HarbourControl
+# Durban Harbour Control
 
-application that will randomly generate boats that arrive at the perimeter and control the flow of boats into the harbor.
+ Application that will randomly generate boats that arrive at the perimeter and control the flow of boats into the harbor.
 • Scheduling engine that will allow after delayed time.
 • Using  console to demonstrate the functionality.
 • Calling a service that that display the current wind speed at Durban harbor.
